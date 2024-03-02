@@ -1,1 +1,1 @@
-# Selection-Sorting
+# Examples of different algorithms
